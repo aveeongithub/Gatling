@@ -1,0 +1,10 @@
+{
+  "simulation": "DemoJava",
+  "simulationId": "demojava-20231109191304752",
+  "start": 1699557186210,
+  "description": "test",
+  "scenarios": ["Video Game Db - Section 5 code"],
+  "assertions": [
+
+  ]
+}
